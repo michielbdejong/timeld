@@ -2,7 +2,7 @@
 
 This package supports live update of timesheet entries:
 - _from_ **timeld**
-- _to_ [prejournal](https://prejournal.org/).
+- _to_ [prejournal](https://pondersource.github.io/prejournal/).
 
 ## installation & configuration
 
